@@ -7,7 +7,7 @@ import ContenidoModerador from "./componentes/ContenidoModerador";
 import ContenidoUsuario from "./componentes/ContenidoUsuario";
 import ContenidoPublico from "./componentes/ContenidoPublico";
 import { HashRouter, Route, Routes } from "react-router-dom";
-import Inicio from "./componentes/inicio";
+import Inicio from "./componentes/Inicio";
 import NoAutorizado from "./componentes/NoAutorizado";
 
 function App() {
